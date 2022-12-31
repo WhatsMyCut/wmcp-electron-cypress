@@ -73,9 +73,9 @@
     "@electron-forge/maker-rpm": "^6.0.0-beta.43",
     "@electron-forge/maker-squirrel": "^6.0.0-beta.43",
     "@electron-forge/maker-zip": "^6.0.0-beta.43",
-    "@electron-forge/plugin-webpack": "^6.0.0-beta.43",
+    "@electron-forge/plugin-webpack": "^6.0.4",
     "@marshallofsound/webpack-asset-relocator-loader": "^0.5.0",
-    "css-loader": "^3.1.0",
+    "css-loader": "^6.7.3",
     "cypress": "^3.4.0",
     "electron": "5.0.8",
     "eslint": "^5.16.0",
@@ -84,6 +84,6 @@
     "eslint-plugin-jsx-a11y": "^6.2.3",
     "eslint-plugin-react": "^7.14.3",
     "node-loader": "^0.6.0",
-    "style-loader": "^0.23.1"
+    "style-loader": "^3.3.1"
   }
 }
